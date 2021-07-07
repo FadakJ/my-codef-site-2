@@ -1,11 +1,10 @@
 ---
-title: "Jumana in the Kitchen"
+title: "Recipes for All Tastes and Occasions"
 date: 2021-07-06T10:53:58+01:00
 draft: false
 ---
 
-# Recipes for All Tastes and Occasions
-**~Discover your passion for cooking~**
+# ~Discover your passion for cooking~
 
 *I share simple and delicious beginner friendly recipes on my YouTube channel, explained clearly step by step to guarantee your success.*
 
