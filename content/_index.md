@@ -26,7 +26,7 @@ Join me on my cooking journey and learn how to make your favourite dishes by sub
 - Pinch of salt
 
 #### Method:
-1. Add the eggs to a large mxing bowl.
+1. Add the eggs to a large mixing bowl.
 2. Add the granulated sugar, vegetable oil, vanilla extract and a pinch of salt to the eggs.
 3. Mix continuously for 20 minutes using an electric mixer. The mixture will thicken and double in size.
 4. Sift in the dry ingredients - flour and baking powder- and fold gently using a spatula until the ingredients are well combined.
