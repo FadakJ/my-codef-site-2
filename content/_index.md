@@ -1,10 +1,10 @@
 ---
-title: "Main Page"
+title: "Jumana in the Kitchen"
 date: 2021-07-06T10:53:58+01:00
 draft: false
 ---
 
-# Jumana in the Kitchen
+# Recipes for All Tastes and Occasions
 **~Discover your passion for cooking~**
 
 *I share simple and delicious beginner friendly recipes on my YouTube channel, explained clearly step by step to guarantee your success.*
