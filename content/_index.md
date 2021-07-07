@@ -8,13 +8,11 @@ draft: false
 
 *I share simple and delicious beginner friendly recipes on my YouTube channel, explained clearly step by step to guarantee your success.*
 
-Join me on my cooking journey and learn how to make your favourite dishes by subscribing to my YouTube channel linked above.
+Join me on my cooking journey and learn how to make your favourite dishes by subscribing to my channel  [here](https://www.youtube.com/channel/UCmWBx7zDJEplbd4Lo_y1M0g?sub_confirmation=1).
 ![IMG1](IMG1.jpg)
 
 ## Sponge Cake Recipe
 {{< youtube AugcYaGtmGA >}}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AugcYaGtmGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Ingredients:
 - 1 1/4 cups all purpuse flour
