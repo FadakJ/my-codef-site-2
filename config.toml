@@ -1,4 +1,4 @@
-title = "Notre-Dame de Paris"
+title = "Jumana in the Kitchen"
 baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "ananke"
@@ -10,18 +10,8 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-
-[languages]
-  [languages.en]
-    title = "My blog"
-    weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Mon blogue"
-    weight = 2
-    contentDir = "content/fr"
-
 [sitemap]
+
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
@@ -32,8 +22,8 @@ enableRobotsTXT = true
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
-  youtube = ""
+  instagram = "https://www.instagram.com/jumana_in_the_kitchen/?hl=en"
+  youtube = "https://www.youtube.com/channel/UCmWBx7zDJEplbd4Lo_y1M0g"
   github = ""
   gitlab = ""
   linkedin = ""
