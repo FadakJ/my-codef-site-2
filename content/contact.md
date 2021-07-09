@@ -4,9 +4,6 @@ date: 2021-07-06T15:35:24+01:00
 menu: "main"
 draft: false
 ---
-![IMG1](IMG1.jpg)
+Subscribe to my channel to get notified every time I upload a new video [here](https://www.youtube.com/channel/UCmWBx7zDJEplbd4Lo_y1M0g).
 
-Check out my latest YouTube video and Subscribe to my channel to get notified every time I upload a new video.
-{{< youtube hVD-epjsn2s >}}
-
-Follow me on Instagram to stay up to date with my new recipes.
+Follow me on Instagram to stay up to date with my new recipes [here](https://www.instagram.com/jumana_in_the_kitchen/?hl=en).
