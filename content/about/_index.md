@@ -5,6 +5,6 @@ draft: false
 ---
 *I share simple and delicious beginner friendly recipes on my YouTube channel, explained clearly step by step to guarantee your success.*
 
-Join me on my cooking journey and learn how to make your favourite dishes by subscribing to my YoTube channel.
+Join me on my cooking journey and learn how to make your favourite dishes by subscribing to my YouTube channel.
 
-![IMG1](IMG1.jpg)
+![IMG1](IMG1.JPG)

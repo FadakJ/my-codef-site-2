@@ -28,3 +28,8 @@ Join me on my cooking journey and learn how to make your favourite dishes by sub
 2. Add the granulated sugar, vegetable oil, vanilla extract and a pinch of salt to the eggs.
 3. Mix continuously for 20 minutes using an electric mixer. The mixture will thicken and double in size.
 4. Sift in the dry ingredients - flour and baking powder- and fold gently using a spatula until the ingredients are well combined.
+5. Grease and flour a cake tin before dding the batter to ensure that the cake unmolds easily.
+6. Pour the cake batter into the tin and tap it on the counter a few times to remove any air bubbles.
+7. Bake in a preheated 170°C/340°F oven for 30-35 minutes.
+8. Let the cake cool down before removing it from the cake tin.
+9. Enjoy.
