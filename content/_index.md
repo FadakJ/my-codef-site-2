@@ -8,8 +8,10 @@ draft: false
 
 *I share simple and delicious beginner friendly recipes on my YouTube channel, explained clearly step by step to guarantee your success.*
 
-Join me on my cooking journey and learn how to make your favourite dishes by subscribing to my channel  [here](https://www.youtube.com/channel/UCmWBx7zDJEplbd4Lo_y1M0g).
+Join me on my cooking journey and learn how to make your favourite dishes by subscribing to my channel [here](https://www.youtube.com/channel/UCmWBx7zDJEplbd4Lo_y1M0g).
 ![IMG1](IMG1.jpg)
+
+---------------------------
 
 ## Sponge Cake Recipe
 {{< youtube AugcYaGtmGA >}}
