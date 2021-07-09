@@ -4,18 +4,7 @@ date: 2021-07-06T10:53:58+01:00
 draft: false
 ---
 
-# ~Discover your passion for cooking~
-<Title>
-
-<html>
-<head>
-	<meta charset="utf-8">
-	<title></title>
-</head>
-<body>
-
-</body>
-</html>
+<h1> ~Discover your passion for cooking~ </h1>
 
 *I share simple and delicious beginner friendly recipes on my YouTube channel, explained clearly step by step to guarantee your success.*
 
